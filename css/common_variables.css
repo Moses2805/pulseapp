@@ -1,0 +1,36 @@
+/*colors*/
+
+
+.c-1{
+	color: #080c16;
+}
+.c-2{
+	color: #464951;
+}
+
+
+/*font-weight*/
+
+.fw-1{
+	font-weight: 700;
+}
+
+/*letter-spacing*/
+
+.ls-1{
+	letter-spacing: -2px;
+}
+
+.ls-2{
+	letter-spacing: .5px;
+}
+
+/*font-size*/
+
+.fsi-1{
+	font-size: 1.25rem;
+}
+
+.fsi-2{
+	font-size: 1.125rem;
+}
